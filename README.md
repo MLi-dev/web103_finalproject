@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: Saad Bin Ihsan, Matthew Li
 
 🔗 Link to deployed app:
 
@@ -14,11 +14,13 @@ Designed and developed by: [your names here]
 
 ### Inspiration
 
+Saad and I are both avid video game players, and we've faced lots of challenges in boss fights/levels. Our idea is to create a comprehensive guide of tips and tricks to overcome each level, as well as teach any game mechanics players can take full advantage of. Personally, I (Matthew Li) was inspired by a Team Fortress 2 Youtuber named WeezyTF2 who plays lots of this gamemode called "Mann versus Machine" and he often provides advice for new players. 
+
 [text goes here]
 
 ## Tech Stack
 
-Frontend:
+Frontend: 
 
 Backend:
 
