@@ -18,29 +18,33 @@ Saad and I are both avid video game players and have been significantly helped i
 
 ## Tech Stack
 
-Frontend: 
+Frontend: React
 
-Backend:
+Backend: Node
 
 ## Features
 
-### [Name of Feature 1]
+### Ability to filter games the user is interested in.
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+This will involve basically sorting through and dynamically assigning a game as a topic to wherever a post gets made and allow users to filter for a specific game
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Account information for people who are signed in. 
 
-[short description goes here]
+This'll allow for users to setup profiles and have their own preferences which might be used as a pub-sub system for people to get updates related to the games they like in a recommendation system
 
 [gif goes here]
+
+### Authentication
+
+Allowing user signup and login
+
+[gif goes here]
+
+### AI chat bot 
+
+This will allow a user to ask a question about a game and have it be answered generally using the previous forum posts as context for the post.
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
