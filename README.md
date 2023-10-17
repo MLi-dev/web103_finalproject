@@ -9,8 +9,9 @@ Designed and developed by: Saad Bin Ihsan, Matthew Li
 ## About
 
 ### Description and Purpose
+Description: Generalized forum for guides for different video games. Allowing people to be able to communicate with a chatgpt-like chatbot with the context of the posts on a game
+Purpose: With game discussions generally being haphazard, finding an answer to your question about specific attributes can be time-consuming. By making a centralized space, we’ll make it easier for users to find any information they need.
 
-[text goes here]
 
 ### Inspiration
 
