@@ -1,4 +1,4 @@
-# [your app name here]
+# [GameHub]
 
 CodePath WEB103 Final Project
 
