@@ -27,31 +27,64 @@ Backend: Node
 
 ### The web app includes an Express backend app and a React frontend app.
 
+[gif goes here]
+
+
 ### The web app includes dynamic routes for both frontend and backend apps.
 
+[gif goes here]
+
+
 ### The web app is deployed on Railway with all pages and features working.
+
+[gif goes here]
+
 
 ### The web app implements at least one of each of the following database relationship in Postgres:
   #### one-to-many
   #### many-to-many with a join table
 
+[gif goes here]
+
+
 ### The web app implements a well-designed RESTful API that:
   #### Can respond to at least one of each type of request: GET, POST, PATCH, and DELETE.
   #### Implements proper naming conventions for routes.
 
+[gif goes here]
+
+
 ### The web app implements the ability to reset the database to its default state.
+
+[gif goes here]
+
 
 ## Frontend Features
 
+[gif goes here]
+
+
 ### The web app implements at least one redirection.
+
+[gif goes here]
+
 
 ### The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
 
+[gif goes here]
+
+
 ### The web app uses dynamic frontend routes created with React Router.
+
+[gif goes here]
+
 
 ### The web app uses hierarchically designed React components:
 #### Components are broken down into categories, including page and component types
 #### Corresponding container components and presenter components as appropriate
+
+[gif goes here]
+
 
 ## Custom Features 
 
