@@ -4,7 +4,13 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- [x] Landing Page / Home Page
+- [x] Profile Page
+- [x] Register / Login Page
+- [x] Create Post Page
+- [x] View Post Page
+- [x] Game Page
+
 
 ## Wireframe 1: [Landing Page / Home Page]
 
