@@ -73,4 +73,4 @@ Ref: posts.user_id > users.id
 
 ## Add the Entity Relationship Diagram
 
-![Entity Relationship Diagram](./entity relationship diagram.png)
+<img src = "./entity relationship diagram.png" title = "Entity Relationship Diagram" width = '' />
