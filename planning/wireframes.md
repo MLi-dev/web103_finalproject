@@ -10,6 +10,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - [x] Create Post Page
 - [x] View Post Page
 - [x] Game Page
+- [ ] AI Chatbot Page
 
 
 ## Wireframe 1: [Landing Page / Home Page]
