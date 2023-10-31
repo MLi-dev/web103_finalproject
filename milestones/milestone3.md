@@ -25,7 +25,7 @@ We've been consistent with meetings and communication which has made it so we go
 
 ### 2. What were some challenges your group faced in this unit?
 
-I think 
+Finding appropriate time and what features we are able to implement for this week. We are rather split, because I (Matthew) am unable to devote much time due to other courses. 
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
