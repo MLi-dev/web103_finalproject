@@ -21,11 +21,11 @@ You will need to reference the GitHub Project Management guide in the course por
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We've been consistent with meetings and communication which has made it so we got done with setting up the required repositories and project boards pretty quickly.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+I think 
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
