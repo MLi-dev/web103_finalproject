@@ -4,6 +4,11 @@ CodePath WEB103 Final Project
 
 Designed and developed by: Saad Bin Ihsan, Matthew Li
 
+
+[🔗](https://github.com/Ultraman287/WEB103-Final) Link to project repository: 
+
+[🔗](https://github.com/users/Ultraman287/projects/2) Link to Project Plan
+
 🔗 Link to deployed app:
 
 ## About
