@@ -29,12 +29,12 @@ Finding appropriate time and what features we are able to implement for this wee
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Yes, the main goal for this week was putting up the scaffolding for our project with the folder structure and the files we'll be needing and the repository's been initialized with the required materials.
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
-[👉🏾👉🏾👉🏾 your answer here]
+The main feature at risk is the AI chatbot which we feel is going to be more of an extension feature so it's not something we have to prioritize at the moment
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Support in terms of feedback for our designs and help with user interviews so that we can do more test-driven development focusing on user requirements
