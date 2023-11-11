@@ -5,9 +5,9 @@ CodePath WEB103 Final Project
 Designed and developed by: Saad Bin Ihsan, Matthew Li
 
 
-[🔗](https://github.com/Ultraman287/WEB103-Final) Link to project repository: 
+[🔗 Link to project repository](https://github.com/Ultraman287/WEB103-Final) 
 
-[🔗](https://github.com/users/Ultraman287/projects/2) Link to Project Plan
+[🔗 Link to Project Plan](https://github.com/users/Ultraman287/projects/2) 
 
 🔗 Link to deployed app:
 
@@ -30,66 +30,73 @@ Backend: Node
 
 ## Backend Features
 
-### The web app includes an Express backend app and a React frontend app.
+### ✅ The web app includes an Express backend app and a React frontend app.
 
-[gif goes here]
+<img src='./gifs/Express React.gif' title='Authentication' width='' />
 
+As shown in the gif above, the web app includes an Express backend app and a React frontend app.
 
-### The web app includes dynamic routes for both frontend and backend apps.
+### ✅ The web app includes dynamic routes for both frontend and backend apps.
 
-[gif goes here]
+<img src='./gifs/Dynamic routes.gif' title='Authentication' width='' />
 
+As shown in the gif above, the web app includes dynamic routes for both the frontend and backend where the backend api routes handle the requests and the frontend routes handle the rendering of the pages. vite config is used to connection the api route to the separate backend server.
 
-### The web app is deployed on Railway with all pages and features working.
+### ✅ The web app is deployed on Railway with all pages and features working.
 
-[gif goes here]
+<img src='./gifs/Railway.gif' title='Authentication' width='' />
 
+The webapp is deployed on Railway as shown above
 
-### The web app implements at least one of each of the following database relationship in Postgres:
+### ✅ The web app implements at least one of each of the following database relationship in Postgres:
   #### one-to-many
   #### many-to-many with a join table
 
 [gif goes here]
 
 
-### The web app implements a well-designed RESTful API that:
+### ✅ The web app implements a well-designed RESTful API that:
   #### Can respond to at least one of each type of request: GET, POST, PATCH, and DELETE.
   #### Implements proper naming conventions for routes.
 
-[gif goes here]
+<img src='./gifs/CRUD.gif' title='Authentication' width='800px' />
 
+As shown in the gif above, the web app implements a well-designed RESTful API that can respond to at least one of each type of request: GET, POST, PATCH, and DELETE with the example of the posts that you are able to create.
 
-### The web app implements the ability to reset the database to its default state.
+### ✅ The web app implements the ability to reset the database to its default state.
 
-[gif goes here]
+<img src='./gifs/Database Reset.gif' title='Authentication' width='800px' />
 
+As shown in the gif above, when doing npm run start for the server, the database is reset to its original state. You can also do npm run dev instead to not reset the database.
 
 ## Frontend Features
 
-[gif goes here]
 
+### ✅ The web app implements at least one redirection.
 
-### The web app implements at least one redirection.
+<img src='./gifs/Redirection.gif' title='Authentication' width='800px' />
 
-[gif goes here]
+As shown in the gif above, the user is redirected to the home page after updating a post.
 
+### ✅ The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
 
-### The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
+<img src='./gifs/Same Page Interaction.gif' title='Authentication' width='800px' />
 
-[gif goes here]
+As shown in the gif above, the user can hover over a post to see the post's description and tags without navigating to a new page.
 
+### ✅ The web app uses dynamic frontend routes created with React Router.
 
-### The web app uses dynamic frontend routes created with React Router.
+<img src='./gifs/React Router.gif' title='Authentication' width='800px' />
 
-[gif goes here]
+React Router is used to create dynamic frontend routes as shown from the gif of the repository
 
-
-### The web app uses hierarchically designed React components:
+### ✅ The web app uses hierarchically designed React components:
 #### Components are broken down into categories, including page and component types
 #### Corresponding container components and presenter components as appropriate
 
-[gif goes here]
+<img src='./gifs/Hierarchic React Components.gif' title='Authentication' width='800px' />
 
+As can be seen by the gif above, the components are broken down into categories, including page and component types. The corresponding container components and presenter components are also used as appropriate.
 
 ## Custom Features 
 
@@ -112,8 +119,9 @@ This'll allow for users to setup profiles and have their own preferences which m
 
 Allowing user signup and login
 
-<img src='./gifs/authentication.gif' title='Authentication' width='' />
+<img ✅ src='./gifs/Authentication.gif' title='Authentication' width='800px' />
 
+Authentication is integrated using the Github OAuth API. Users can sign in with their Github account and their profile picture will be displayed on the navbar.
 
 ### AI chat bot 
 
