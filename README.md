@@ -42,11 +42,9 @@ As shown in the gif above, the web app includes an Express backend app and a Rea
 
 As shown in the gif above, the web app includes dynamic routes for both the frontend and backend where the backend api routes handle the requests and the frontend routes handle the rendering of the pages. vite config is used to connection the api route to the separate backend server.
 
-### ✅ The web app is deployed on Railway with all pages and features working.
+### The web app is deployed on Railway with all pages and features working.
 
-<img src='./gifs/Railway.gif' title='Authentication' width='' />
-
-The webapp is deployed on Railway as shown above
+[gif goes here]
 
 ### ✅ The web app implements at least one of each of the following database relationship in Postgres:
   #### one-to-many
