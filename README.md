@@ -115,11 +115,11 @@ This'll allow for users to setup profiles and have their own preferences which m
 
 ## Stretch Features
 
-### Authentication
+### ✅ Authentication
 
 Allowing user signup and login
 
-<img ✅ src='./gifs/Authentication.gif' title='Authentication' width='800px' />
+<img src='./gifs/Authentication.gif' title='Authentication' width='800px' />
 
 Authentication is integrated using the Github OAuth API. Users can sign in with their Github account and their profile picture will be displayed on the navbar.
 
