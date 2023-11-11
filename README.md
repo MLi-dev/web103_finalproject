@@ -112,7 +112,8 @@ This'll allow for users to setup profiles and have their own preferences which m
 
 Allowing user signup and login
 
-[gif goes here]
+<img src='./gifs/authentication.gif' title='Authentication' width='' />
+
 
 ### AI chat bot 
 
