@@ -9,7 +9,7 @@ Designed and developed by: Saad Bin Ihsan, Matthew Li
 
 [🔗 Link to Project Plan](https://github.com/users/Ultraman287/projects/2) 
 
-🔗 Link to deployed app:
+🔗 Link to deployed app: https://web103-final-production-d415.up.railway.app/ 
 
 ## About
 
