@@ -42,16 +42,20 @@ As shown in the gif above, the web app includes an Express backend app and a Rea
 
 As shown in the gif above, the web app includes dynamic routes for both the frontend and backend where the backend api routes handle the requests and the frontend routes handle the rendering of the pages. vite config is used to connection the api route to the separate backend server.
 
-### The web app is deployed on Railway with all pages and features working.
+### ✅ The web app is deployed on Railway with all pages and features working.
 
-[gif goes here]
+![RailwayFeatures](https://github.com/MLi-dev/web103_finalproject/assets/85410877/1b4ef6b7-4224-44d5-ad04-64bee8b37a3b)
+
+
 
 ### ✅ The web app implements at least one of each of the following database relationship in Postgres:
   #### one-to-many
   #### many-to-many with a join table
 
-[gif goes here]
 
+![Web103BackendRecording](https://github.com/MLi-dev/web103_finalproject/assets/85410877/266f541c-ead4-4e23-8cae-7fcface3faa4)
+
+![Web103BackendReflectionRecording](https://github.com/MLi-dev/web103_finalproject/assets/85410877/efd35c5c-a1a2-4cfb-a1f4-05ac3f763977)
 
 ### ✅ The web app implements a well-designed RESTful API that:
   #### Can respond to at least one of each type of request: GET, POST, PATCH, and DELETE.
@@ -98,13 +102,13 @@ As can be seen by the gif above, the components are broken down into categories,
 
 ## Custom Features 
 
-### Ability to filter games the user is interested in. (The web app allows filtering and/or sorting as appropriate for your use case)
+### ❌ Ability to filter games the user is interested in. (The web app allows filtering and/or sorting as appropriate for your use case)
 
 This will involve basically sorting through and dynamically assigning a game as a topic to wherever a post gets made and allow users to filter for a specific game
 
 [gif goes here]
 
-### Account information for people who are signed in. (Data is automatically generated in response to a certain event or user action. Examples include generating a default inventory for a new user starting a game or creating a starter set of tasks for a user creating a new task app account.)
+### ❌ Account information for people who are signed in. (Data is automatically generated in response to a certain event or user action. Examples include generating a default inventory for a new user starting a game or creating a starter set of tasks for a user creating a new task app account.)
 
 This'll allow for users to setup profiles and have their own preferences which might be used as a pub-sub system for people to get updates related to the games they like in a recommendation system
 
@@ -121,7 +125,7 @@ Allowing user signup and login
 
 Authentication is integrated using the Github OAuth API. Users can sign in with their Github account and their profile picture will be displayed on the navbar.
 
-### AI chat bot 
+### ❌ AI chat bot 
 
 This will allow a user to ask a question about a game and have it be answered generally using the previous forum posts as context for the post.
 
